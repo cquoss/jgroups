@@ -1,0 +1,6 @@
+# Apache Maven
+target/
+
+# JetBrains IntelliJ IdeaUI
+.idea/
+*.iml
